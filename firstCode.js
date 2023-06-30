@@ -18,3 +18,31 @@ jsx fragments:
         </a>
       </header>
     </div>
+
+import logo from './logo.svg';
+import './App.css';
+
+ let var3="mukesh";
+function App() {
+  return (
+    <>
+    <nav> 
+      <li>Home</li>
+      <li>About</li>
+      <li>Contact</li>
+      
+      <p> {5+7}
+      </p>n
+      
+    </nav>
+    
+
+  <div className='blank'> 
+  
+      <h1> Hello {var3}</h1>
+   </div>
+   
+    </>
+   
+ );
+}
