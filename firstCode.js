@@ -29,6 +29,7 @@ function App() {
     <nav> 
       <li>Home</li>
       <li>About</li>
+      <li>Blog</li>
       <li>Contact</li>
       
       <p> {5+7}
